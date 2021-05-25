@@ -1,0 +1,21 @@
+@font-face {
+font-family: 'SEGA LOGO FONT';
+font-style: normal;
+font-weight: normal;
+src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+body {
+  font-family: 'Josefin Sans', cursive;
+}
+h1 {
+  font-family: 'Josefin Sans', cursive;
+  font-weight: 400;
+  font-size: 3em;
+  color: #0ccac4;
+}
+.tc {
+overflow-y: hidden;
+}
+
+/* @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext'); */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
