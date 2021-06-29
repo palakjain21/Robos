@@ -11,7 +11,7 @@ const mapStateToProps = (state) => {
   return {
     searchField: state.searchRobots.searchField,
     robots: state.requestRobots.robots,
-    isPending: state.requestRobots.isPending
+    // isPending: state.requestRobots.isPending
   }
 }
 
