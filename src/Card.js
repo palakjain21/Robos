@@ -9,7 +9,7 @@ const Card =(props) => {
 		
 		<div>
 		<h2> {props.name}</h2>
-		<p style={{margin-bottom:"3rem"}}> {props.tagline}</p>
+		<p> {props.tagline}</p>
 		</div>
 		</div>
 
